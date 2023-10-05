@@ -1,5 +1,5 @@
 # Refactoring-code
-Refactoring starter code to make website more accessible
+Refactoring starter code to make website more accessible.
 
 Many websites have been designed and built in a way which are inaccessible for people with permanent and temporary disabilities. Not only does this mean that they have trouble experiencing the website, but from a business point of view it can also affect the Search Engine Optimisation (SEO) of that website and the traffic it drives through.
 
@@ -18,4 +18,6 @@ Below is a screenshot of how the site should look:
 
 ![image](https://github.com/gdavies2736/Refactoring-code/assets/89836987/8e1e3962-21eb-4827-9b90-0821cce15195)
 
+Below is a link to the live site:
 
+**https://github.com/gdavies2736/Refactoring-code.git**
