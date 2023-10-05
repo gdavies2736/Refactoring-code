@@ -20,4 +20,4 @@ Below is a screenshot of how the site should look:
 
 Below is a link to the live site:
 
-**https://github.com/gdavies2736/Refactoring-code.git**
+**https://gdavies2736.github.io/Refactoring-code/**
